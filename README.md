@@ -27,7 +27,16 @@ I'm a passionate UI/UX Designer and Web Developer based in Lyon, France. My expe
 #### Project 1: Plateforme de NFT (Tokens Non Fungibles)
 
 This ambitious project includes the following features:
-(Description remains unchanged)
+
+- **Registration and Authentication**: Users can securely register and log in.
+- **Exploration of NFTs list**: Users have the ability to explore a list of available NFTs.
+- **Access to personal information**: Users can access their personal information.
+- **Details of each NFT**: Each NFT has a dedicated page with detailed information.
+- **Displaying personal collection of NFTs**: Users can showcase their NFTs in a personal gallery.
+- **Updating personal information**: Users can update certain personal details.
+- **Data exposure via an API**: All data is accessible via an API.
+
+This project revolves around a BACK-END and FRONT-END architecture.
 
 #### Technologies used:
 
@@ -36,7 +45,18 @@ This ambitious project includes the following features:
 
 #### Project 2: Plateforme E-commerce avec WordPress
 
-(Description remains unchanged)
+This project was developed using WordPress as a base for an E-commerce platform.
+
+#### Key features of the project:
+
+- **Creation of an online store**: Setup and development of a functional E-commerce store.
+- **Product management**: Integration and management of products with detailed descriptions and images.
+- **Secure payment system**: Implementation of a secure payment system for transactions.
+- **Design customization**: Theme adaptation and customization for a unique visual identity.
+- **User management**: Management of customer accounts, access to personal information, and purchase history.
+- **SEO optimization**: Use of SEO best practices to improve online visibility.
+
+This project emphasized user experience and transaction security to offer a smooth and reliable shopping experience.
 
 #### Technologies used:
 
@@ -44,6 +64,7 @@ This ambitious project includes the following features:
 - **Front-end Languages**: HTML, CSS, JavaScript
 - **Back-end Language**: PHP
 - **Secure payment integration**: (mention the payment method used, for example, PayPal, Stripe, etc.)
+
 
 ### Portfolio & Additional Links:
 
