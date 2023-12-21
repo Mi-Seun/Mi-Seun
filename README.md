@@ -1,17 +1,16 @@
-### Hi there, I'm Mi-Sun JANG! 👋
+### Hi there, I'm Mi-Sun JANG, Korean and French! 👋
 
-I'm a passionate UI/UX Designer and Web Developer based in Lyon, France. My expertise lies in crafting informative visuals and diving into web development. Here's a glimpse of my skills:
+I'm a Fullstack Web Developer with expertise in UI Design, currently based in Lyon, France. My skillset covers both front-end and back-end development, alongside a strong background in crafting informative visuals. Here's a glimpse of my skills:
 
-- 🔭 I’m currently working on creating intuitive web(e-commerce), logo, UI designs.
+- 🔭 I’m currently working on creating intuitive web applications, implementing logos, and enhancing UI designs.
 - 🌱 I’m continuously learning and exploring new trends in Symfony, Angular, WordPress, and MySQL.
 - 💻 Proficient in: Symfony, Angular, WordPress, MySQL.
-- 🎨 Skilled in crafting engaging and informative infographics.
-- 🌐 Also well-versed in front-end and back-end web development.
+- 🌐 Well-versed in both front-end and back-end web development, ensuring seamless functionality and appealing user experiences.
 
 ### About Me:
 
-- 👩‍💼 I've worked as a freelance UI Designer and gained valuable experience in crafting designs tailored to client needs.
-- 🌟 Recently completed a web development training program to further enhance my skills.
+- 👩‍💼 I've been working as a Fullstack Web Developer and UI Designer, specializing in blending design aesthetics with technical proficiency.
+- 🌟 Recently completed a web development training program to further enhance my Fullstack skills.
 - 🖥️ Completed an internship focused on creating a website using WordPress.
 
 ### Technologies & Tools:
