@@ -2,10 +2,10 @@
 
 I'm a Fullstack Web Developer with expertise in UI Design, currently based in Lyon, France. My skillset covers both front-end and back-end development, alongside a strong background in crafting informative visuals. Here's a glimpse of my skills:
 
-- 🔭 I’m currently working on creating intuitive web applications, implementing logos, and enhancing UI designs.
-- 🌱 I’m continuously learning and exploring new trends in Symfony, Angular, WordPress, and MySQL.
-- 💻 Proficient in: Symfony, Angular, WordPress, MySQL.
+- 🌱 I’m continuously learning and exploring new trends in Angular, React, Three.js, WebGL.
+- 💻 Proficient in: Angular, Three.js, JavaScript, Symfony, php, MySQL, WordPress, etc. 
 - 🌐 Well-versed in both front-end and back-end web development, ensuring seamless functionality and appealing user experiences.
+- - 🔭 I’m currently working on creating intuitive web applications, implementing logos, and enhancing UI designs.
 
 ### About Me:
 
@@ -67,8 +67,7 @@ This project emphasized user experience and transaction security to offer a smoo
 
 ### Portfolio & Additional Links:
 
-- **Portfolio**: [À venir]
-- **Website 1**: [À venir]
+- **Portfolio**: (http://misun.c1.biz/misun/)
 - **Behance**: [Behance Profile](https://www.behance.net/mi-sunjang)
 
 
