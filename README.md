@@ -67,7 +67,7 @@ This project emphasized user experience and transaction security to offer a smoo
 
 ### Portfolio & Additional Links:
 
-- **Portfolio**: [Site web(En cours) => http://misun.c1.biz/misun/ ](http://misun.c1.biz/misun/)
+- **Portfolio**: [http://misun.c1.biz/misun/ ](http://misun.c1.biz/misun/)
 - **Infographie - Design**: [Behance Profile](https://www.behance.net/mi-sunjang)
 
 
