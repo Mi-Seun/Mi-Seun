@@ -68,9 +68,9 @@ This project emphasized user experience and transaction security to offer a smoo
 ### Portfolio & Additional Links:
 
 - **Portfolio**: [http://misun.c1.biz/misun/ ](http://misun.c1.biz/misun/)
-- **Infographie - Design**: [Behance Profile](https://www.behance.net/mi-sunjang)
+- **Infographie - Design**: [Behance](https://www.behance.net/mi-sunjang)
 
 
 ### How to Reach Me:
 
-📫 You can connect with me via [misunjang@free.fr] or [LinkedIn Profile](https://www.linkedin.com/in/misun-jang). I'm actively seeking job opportunities and open to collaborations! Let's discuss ideas, projects, or anything related to design and development! 😄
+📫 You can connect with me via [misunjang@free.fr] or [LinkedIn](https://www.linkedin.com/in/misun-jang). I'm actively seeking job opportunities and open to collaborations! Let's discuss ideas, projects, or anything related to design and development! 😄
