@@ -1,4 +1,4 @@
-### Hi there, I'm Mi-Sun JANG, Korean and French! 👋
+### Hi there👋
 
 I'm a Fullstack Web Developer with expertise in UI Design, currently based in Lyon, France. My skillset covers both front-end and back-end development, alongside a strong background in crafting informative visuals. Here's a glimpse of my skills:
 
@@ -64,13 +64,3 @@ This project emphasized user experience and transaction security to offer a smoo
 - **Back-end Language**: PHP
 - **Secure payment integration**: (mention the payment method used, for example, PayPal, Stripe, etc.)
 
-
-### Portfolio & Additional Links:
-
-- **Portfolio**: [ http://misun-jang.alwaysdata.net/ ](http://misun-jang.alwaysdata.net/)
-- **Infographie - Design**: [https://www.behance.net/mi-sunjang](https://www.behance.net/mi-sunjang)
-
-
-### How to Reach Me:
-
-📫 You can connect with me via [misunjang@free.fr] or [LinkedIn](https://www.linkedin.com/in/misun-jang). I'm actively seeking job opportunities and open to collaborations! Let's discuss ideas, projects, or anything related to design and development! 😄
